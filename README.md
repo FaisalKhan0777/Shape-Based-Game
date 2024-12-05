@@ -3,7 +3,7 @@ I designed and implemented an engaging educational game tailored for students in
 
 It uses object-oriented programming principles, I incorporated key concepts such as has-a-relationship, method overriding, method overloading, constructor overriding, inheritance, and upcasting to create a robust and extensible codebase.
 
-#Technologies
+# Technologies
 Java concepts such as class, Object, Constructor, Inheritance, Polymorphism, Upcasting, Method Overriding, HAS-A Relationship, Interface
 
 Tools : Eclipse IDE for Java Developers
